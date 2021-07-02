@@ -44,7 +44,8 @@ Follow these instructions to install TrackStar Budget for your specific smartpho
 
 2. You will find the icon to install the app in the url bar (image below for reference).
 
-<img width="232" alt="Screen Shot 2021-07-01 at 9 03 50 PM" src="https://user-images.githubusercontent.com/77217156/124214682-9eef7000-dac0-11eb-8ee6-9324bde178e5.png">
+![Install TrackStar Budget](https://user-images.githubusercontent.com/77217156/124214788-c9d9c400-dac0-11eb-93d5-0428ca7f9aed.png)
+
 
 3. Click on Install TrackStar Budget App.
 
