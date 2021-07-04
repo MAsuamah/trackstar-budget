@@ -1,6 +1,6 @@
 # TrackStar Budget
 
-TrackStar Budget is a budget tracker that can be used to keep track of your everday bank withdrawls and deposits. The application also allows offline access and functionality, as well as mobile installation, so you can track your budget anytime.
+TrackStar Budget is a budget tracker that can be used to keep track of your everyday bank withdrawals and deposits. The application also allows offline access and functionality, as well as mobile installation so you can track your budget anytime.
 
 ![screencapture-localhost-3001-2021-07-01-21_02_44](https://user-images.githubusercontent.com/77217156/124209351-613a1980-dab7-11eb-800d-9abaf4b1b9b5.png)
 
@@ -64,4 +64,3 @@ Michelle Asuamah
 
 ## Contact
 If you would like to contact me you can reach me at michey.asmah21@gmail.com.
-
