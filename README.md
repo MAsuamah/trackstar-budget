@@ -6,7 +6,7 @@ TrackStar Budget is a budget tracker that can be used to keep track of your ever
 
 
 ## How To Use
-Enter the name of the transaction and the transaction amount. Choose to aadd funds if it is a deposit or subtract funds if it is a withdrawal. TrackStar Budget also features a graph to give you a visual representation of your transactions.
+Enter the name of the transaction and the transaction amount. Choose to add funds if it is a deposit or subtract funds if it is a withdrawal. TrackStar Budget also features a graph to give you a visual representation of your transactions.
 
 ## Install TrackStar Budget on Your Device.
 
